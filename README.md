@@ -17,3 +17,11 @@ Welcome to the Text-to-Voice Application! This web app allows users to convert t
 🌐 **Demo**:
 
 Check out the live demo here :-  https://prismatic-sunflower-20dbe7.netlify.app/
+
+🛠️ **Technologies Used**:
+
+**HTML** 📝 - The markup language for the structure of the app.
+
+**CSS** 🎨 - For styling and making the app visually appealing.
+
+**JavaScript** 💻 - For the functionality and logic of the Text-to-Voice conversion.
