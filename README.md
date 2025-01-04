@@ -24,4 +24,12 @@ Check out the live demo here :-  https://prismatic-sunflower-20dbe7.netlify.app/
 
 **CSS** 🎨 - For styling and making the app visually appealing.
 
+🔗 **Connect with Me**:
+
+**GitHub Profile**:- https://github.com/saurabh-1074
+
+**Twitter** 🚀:- @SaurabhKum38176
+
+**LinkedIn** 🌐:- https://www.linkedin.com/in/saurabh-kumar-88a10a2a8/
+
 **JavaScript** 💻 - For the functionality and logic of the Text-to-Voice conversion.
