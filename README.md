@@ -1,7 +1,7 @@
 # 🎤 Text-to-Voice-Application 📢
 
 
-Welcome to the Text-to-Voice Application! This web app allows users to convert text into speech using a simple and user-friendly interface. 🚀 Whether you're looking to listen to articles, study materials, or just want to hear your thoughts aloud, this app is here to make your life easier!💡
+Welcome to the Text-to-Voice Application! This web app allows users to convert text into speech using a simple and user-friendly interface. 🚀 Whether you're looking to listen to articles, study materials, or just want to hear your thoughts aloud, this app will make your life easier!💡
 
 🔥 **Features**:
 **Simple Interface**: Easy to use, just type and listen! 🖊️🎧
