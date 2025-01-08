@@ -9,7 +9,7 @@ Welcome to the Text-to-Voice Application! This web app allows users to convert t
 **Text-to-Speech Technology**: Convert any text into clear, natural-sounding voice. 🎙️
 
 **Real-time Voice Conversion**: Hear the text being spoken as soon as you input it. 🔄 
-
+ 
   
 
 🌐 **Demo**:
