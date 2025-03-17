@@ -4,7 +4,7 @@ Welcome to the Text-to-Voice Application! This web app allows users to convert t
 
 🔥 **Features**:
  
-**Simple Interface**: Easy to use, just type and listen! 🖊️🎧 
+**Simple Interface**: Easy to use, just type and listen! 🖊️🎧  
    
 **Text-to-Speech Technology**: Convert any text into clear, natural-sounding voice. 🎙️  
  
